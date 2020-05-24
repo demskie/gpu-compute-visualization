@@ -1,0 +1,8 @@
+text=lf
+*.js eol=lf
+*.ts eol=lf
+*.glsl eol=lf
+
+# Vendored sources
+dist/* linguist-vendored
+src/vendor/* linguist-vendored
